@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONFIG_FILES=$(cat <<EOF
-1.yaml
+2.yaml
 extra.yaml
 EOF
 )
